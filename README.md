@@ -22,7 +22,21 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<details open> 
+<details > 
+  <summary><h2>СТЕМ Мастерская</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <details open> 
+  <summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор </h3></summary>
+    <p align="left">
+      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    </p>
+  </details>
+  <a href="https://github.com/orgs/AppliedRobotics/repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<details > 
   <summary><h2>Манипуляционные РТК</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -34,7 +48,5 @@
     </p>
   </details>
   <a href="https://github.com/orgs/AppliedRobotics/repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
 
 
