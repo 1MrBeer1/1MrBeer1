@@ -22,30 +22,36 @@
 
 <h1>Линейки продукций</h1>
 </p>
-<details ><summary><h2>СТЕМ Мастерская</h2></summary>
+<details open><summary><h2>СТЕМ Мастерская</h2></summary>
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор </h3></summary>
     <p align="left">
-      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
+    </p>
+  </details>
+  <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская. Продвинутый" </h3></summary>
+    <p align="left">
+      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
 </details>
 
 
 <details ><summary><h2>Манипуляционные РТК</h2></summary>
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <details open><summary><h3>Учебно-лабораторный комплект "Учебный манипулятор с плоско-параллельной кинематикой</h3></summary>
     <p align="left">
-      <a href="https://github.com/AppliedRobotics/RTK_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=RTK_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+      <a href="https://github.com/AppliedRobotics/RTK_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=RTK_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
 </details>
 
 <details ><summary><h2>Програмное обеспечение</h2></summary>
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+    <p align="left">
+    </p>
+</details>
+
+<details ><summary><h2>Библиотеки</h2></summary>
     <p align="left">
     </p>
 </details>
