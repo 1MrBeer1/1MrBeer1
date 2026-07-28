@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AppliedRobotics">
-  <img src="http://wiki.appliedrobotics.ru/assets/shapka.I9nFP8aK.png" alt="Applied Robotics" /></a>
+  <img src="https://wiki.appliedrobotics.ru/assets/shapka.Bi_ls8Bm.webp" alt="Applied Robotics" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
