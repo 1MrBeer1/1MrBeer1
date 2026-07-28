@@ -20,7 +20,7 @@
 <!-- Repo icons section -->
 <h1>Линейки продукций</h1>
 </p>
-<details ><summary><h2>Конструктор программируемых моделей инженерных систем</h2></summary>
+<details open><summary><h2>Конструктор программируемых моделей инженерных систем</h2></summary>
 <blockquote>
   <details open><summary><h3>Конструктор программируемых моделей инженерных систем. Экспертный набор</h3></summary>
     <p align="left">
@@ -42,7 +42,7 @@
 </blockquote>
 </details>
 
-<details open><summary><h2>СТЕМ Мастерская</h2></summary>
+<details ><summary><h2>СТЕМ Мастерская</h2></summary>
 <blockquote>
   <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор</h3></summary>
     <p align="left">
@@ -62,7 +62,7 @@
 
 <details ><summary><h2>Манипуляционные РТК</h2></summary>
 <blockquote>
-  <details open><summary><h3>Учебно-лабораторный комплект "Учебный манипулятор с плоско-параллельной кинематикой</h3></summary>
+  <details ><summary><h3>Учебно-лабораторный комплект "Учебный манипулятор с плоско-параллельной кинематикой</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/RTK_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=RTK_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
