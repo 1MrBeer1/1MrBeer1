@@ -46,7 +46,7 @@
 <blockquote>
   <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор</h3></summary>
     <p align="left">
-      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+      <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
