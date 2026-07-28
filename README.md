@@ -20,21 +20,21 @@
 <!-- Repo icons section -->
 <h1>Линейки продукций</h1>
 </p>
-<details ><summary><h2><mark>Конструктор программируемых моделей инженерных систем</mark></h2></summary>
+<details ><summary><h2>Конструктор программируемых моделей инженерных систем</h2></summary>
 <blockquote>
-  <details open><summary><h3><mark>Конструктор программируемых моделей инженерных систем. Экспертный набор</mark></h3></summary>
+  <details open><summary><h3>Конструктор программируемых моделей инженерных систем. Экспертный набор</h3></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/KPMIS_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=KPMIS_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/KPMIS_FPV_example"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=KPMIS_FPV_example&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
     </details>
-    <details open><summary><h3><mark>Конструктор программируемых моделей инженерных систем. Информационные системы и устройства</mark></h3></summary>
+    <details open><summary><h3>Конструктор программируемых моделей инженерных систем. Информационные системы и устройства</h3></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/KPMIS_ISIS_example"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=KPMIS_ISIS_example&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
     </details>
-    <details open><summary><h3><mark>Конструктор программируемых моделей инженерных систем. Кибернетический конструктор по робототехнике</mark></h3></summary>
+    <details open><summary><h3>Конструктор программируемых моделей инженерных систем. Кибернетический конструктор по робототехнике</h3></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/KPMIS_cyber_example"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=KPMIS_cyber_example&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
@@ -42,15 +42,15 @@
 </blockquote>
 </details>
 
-<details open><summary><h2><mark>СТЕМ Мастерская</mark></h2></summary>
+<details open><summary><h2>СТЕМ Мастерская</h2></summary>
 <blockquote>
-  <details open><summary><h3><mark>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор</mark></h3></summary>
+  <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская". Экспертный набор</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>Образовательный робототехнический комплект "СТЕМ Мастерская. Продвинутый"</mark></h3></summary>
+  <details open><summary><h3>Образовательный робототехнический комплект "СТЕМ Мастерская. Продвинутый"</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/STEM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=STEM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -60,15 +60,15 @@
 </details>
 
 
-<details ><summary><h2><mark>Манипуляционные РТК</mark></h2></summary>
+<details ><summary><h2>Манипуляционные РТК</h2></summary>
 <blockquote>
-  <details open><summary><h3><mark>Учебно-лабораторный комплект "Учебный манипулятор с плоско-параллельной кинематикой</mark></h3></summary>
+  <details open><summary><h3>Учебно-лабораторный комплект "Учебный манипулятор с плоско-параллельной кинематикой</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/RTK_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=RTK_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>Dobot</mark></h3></summary>
+  <details open><summary><h3>Dobot</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/Dobot_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=Dobot_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -80,15 +80,15 @@
 </blockquote>
 </details>
 
-<details ><summary><h2><mark>БАС и БПЛА</mark></h2></summary>
+<details ><summary><h2>БАС и БПЛА</h2></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/ARA-EDU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=ARA-EDU&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
 </details>
 
-<details ><summary><h2><mark>Мобильные РТК</mark></h2></summary>
+<details ><summary><h2>Мобильные РТК</h2></summary>
 <blockquote>
-    <details open><summary><h3><mark>Учебный комплект на базе TurtleBot3</mark></h3></summary>
+    <details open><summary><h3>Учебный комплект на базе TurtleBot3</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/AdvancedTurtleBot3-main"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AdvancedTurtleBot3-main&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/AdvancedTurtleBot3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AdvancedTurtleBot3&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -96,7 +96,7 @@
       <a href="https://github.com/AppliedRobotics/AdvancedTurtleBot3_OpenCR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AdvancedTurtleBot3_OpenCR&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>Учебный мобильный робот TurtleCar</mark></h3></summary>
+  <details open><summary><h3>Учебный мобильный робот TurtleCar</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/TurtleCar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=TurtleCar&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
@@ -104,19 +104,19 @@
 </blockquote>
 </details>
 
-<details ><summary><h2><mark>Системы технического зрения</mark></h2></summary>
+<details ><summary><h2>Системы технического зрения</h2></summary>
 <blockquote>
-    <details open><summary><h3><mark>AR-Stereo</mark></h3></summary>
+    <details open><summary><h3>AR-Stereo</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/AR-Stereo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AR-Stereo&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>SVCAM</mark></h3></summary>
+  <details open><summary><h3>SVCAM</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/SVCAM_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=SVCAM_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>Tracing Cam v3</mark></h3></summary>
+  <details open><summary><h3>Tracing Cam v3</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/tc3-ros-package"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=tc3-ros-package&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/applied_robotics-trackingcam3d_client_ros"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=applied_robotics-trackingcam3d_client_ros&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -125,19 +125,19 @@
 </blockquote>
 </details>
 
-<details ><summary><h2><mark>Программируемы контроллеры</mark></h2></summary>
+<details ><summary><h2>Программируемы контроллеры</h2></summary>
 <blockquote>
-    <details open><summary><h3><mark>КПМИС</mark></h3></summary>
+    <details open><summary><h3>КПМИС</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/KPMIS_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=KPMIS_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>DXL_IOT</mark></h3></summary>
+  <details open><summary><h3>DXL_IOT</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/DXL_IOT_examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DXL_IOT_examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
   </details>
-  <details open><summary><h3><mark>ESP JS AR</mark></h3></summary>
+  <details open><summary><h3>ESP JS AR</h3></summary>
     <p align="left">
       <a href="https://github.com/AppliedRobotics/mgos-jsar2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=mgos-jsar2&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
       <a href="https://github.com/AppliedRobotics/https://github.com/AppliedRobotics/mgos-jsar-servo-examples"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=mgos-jsar-servo-examples&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
@@ -151,7 +151,7 @@
 </blockquote>
 </details>
 
-<details ><summary><h2><mark>Програмное обеспечение</mark></h2></summary>
+<details ><summary><h2>Програмное обеспечение</h2></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/AR_Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AR_Wizard&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/DynamixelWorkbench_AR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DynamixelWorkbench_AR&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
@@ -162,7 +162,7 @@
     </p>
 </details>
 
-<details ><summary><h2><mark>Библиотеки</mark></h2></summary>
+<details ><summary><h2>Библиотеки</h2></summary>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/AR_Stem_lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AR_Stem_lab&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/dxlmaster2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=dxlmaster2&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="readme-typing-svg"></a>
