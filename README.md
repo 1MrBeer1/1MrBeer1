@@ -87,9 +87,11 @@
 </details>
 
 <details ><summary><h2>БАС и БПЛА</h2></summary>
+    <blockquote>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/ARA-EDU"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=ARA-EDU&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
+  </blockquote>
 </details>
 
 <details ><summary><h2>Мобильные РТК</h2></summary>
@@ -163,6 +165,7 @@
 </details>
 
 <details ><summary><h2>Програмное обеспечение</h2></summary>
+  <blockquote>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/AR_Wizard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AR_Wizard&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/DynamixelWorkbench_AR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=DynamixelWorkbench_AR&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -171,9 +174,11 @@
     <a href="https://github.com/AppliedRobotics/motion_core_api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=motion_core_api&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/darwin_ros2_api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=darwin_ros2_api&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
+  </blockquote>
 </details>
 
 <details ><summary><h2>Библиотеки</h2></summary>
+  <blockquote>
     <p align="left">
     <a href="https://github.com/AppliedRobotics/AR_Stem_lab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=AR_Stem_lab&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/dxlmaster2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=dxlmaster2&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
@@ -182,6 +187,7 @@
     <a href="https://github.com/AppliedRobotics/mgos-dxlmaster"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=mgos-dxlmaster&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/AppliedRobotics/mgos-jsar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AppliedRobotics&repo=mgos-jsar&theme=react&bg_color=1F222E&title_color=b8cfff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
     </p>
+  </blockquote>
 </details>
 
 <a href="https://github.com/orgs/AppliedRobotics/repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
