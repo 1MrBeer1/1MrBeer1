@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://appliedrobotics.ru"><img width="90px" alt="robotics" title="robotics" src="./media/robotics.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://robotgeeks.ru"><img width="128px" alt="robot_geeks" title="robot_geeks" src="./media/robot_geeks.svg"/></a>
+  <a href="https://robotgeeks.ru"><img width="80px" alt="robot_geeks" title="robot_geeks" src="./media/shopping_robot_basket_2.png"/></a>
   </p>
   <p align="center">
   <a href="https://www.youtube.com/@appliedrobotics1038"><img width="50px" alt="Youtube" title="Youtube" src="./media/youtube.svg"/></a>
