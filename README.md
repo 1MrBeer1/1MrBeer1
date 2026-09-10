@@ -1,21 +1,21 @@
 ﻿<p align="center">
   <a href="https://github.com/AppliedRobotics">
-  <img src="https://wiki.appliedrobotics.ru/assets/shapka.Bi_ls8Bm.webp" alt="Applied Robotics" /></a>
+  <img src="./media/shapka.png" alt="Applied Robotics" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://appliedrobotics.ru"><img width="128px" alt="robotics" title="robotics" src="http://wiki.appliedrobotics.ru/icons/robotics.svg"></a>
+  <a href="https://appliedrobotics.ru"><img width="90px" alt="robotics" title="robotics" src="./media/robotics.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://robotgeeks.ru"><img width="128px" alt="robot_geeks" title="robot_geeks" src="http://wiki.appliedrobotics.ru/icons/robot_geeks.svg"/></a>
+  <a href="https://robotgeeks.ru"><img width="128px" alt="robot_geeks" title="robot_geeks" src="./media/robot_geeks.svg"/></a>
   </p>
   <p align="center">
-  <a href="https://www.youtube.com/@appliedrobotics1038"><img width="50px" alt="Youtube" title="Youtube" src="http://wiki.appliedrobotics.ru/icons/youtube.svg"/></a>
+  <a href="https://www.youtube.com/@appliedrobotics1038"><img width="50px" alt="Youtube" title="Youtube" src="./media/youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://rutube.ru/channel/39120736/"><img width="50px" alt="rutube" title="rutube" src="http://wiki.appliedrobotics.ru/icons/rutube.svg"/></a>
+  <a href="https://rutube.ru/channel/39120736/"><img width="50px" alt="rutube" title="rutube" src="./media/rutube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/appliedrobotics"><img width="50px" alt="telegram" title="telegram" src="http://wiki.appliedrobotics.ru/icons/telegram.svg"/></a>
+  <a href="https://t.me/appliedrobotics"><img width="50px" alt="telegram" title="telegram" src="./media/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/appliedrobotics" alt="vk" title="vk"><img width="50px" src="http://wiki.appliedrobotics.ru/icons/vk.svg"/></a>
+  <a href="https://vk.com/appliedrobotics" alt="vk" title="vk"><img width="50px" src="./media/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!-- Repo icons section -->
 <h1>Линейки продукций</h1>
